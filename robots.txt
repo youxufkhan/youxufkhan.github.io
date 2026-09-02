@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://youxufkhan.github.io/sitemap-index.xml
+Sitemap: https://portfolio.yousufkhan.uk/sitemap-index.xml
